@@ -10,7 +10,8 @@ Alongside that, I have a genuine interest in UI/UX design — I like understandi
 **Frontend:** React · React Native · JavaScript (ES6+)  
 **DevOps & Infra:** Docker · Jenkins · GitHub Actions  
 **Testing:** JUnit 5 · Testcontainers · MockMvc · JaCoCo   
-**Networking:** CCNA: Introduction to Networks (Cisco)
+**Networking:** CCNA: Introduction to Networks (Cisco) 
+</br>
 **Design:** Figma · Webflow · Framer · Adobe Photoshop 
 
 ## 📫 How to Reach Me
