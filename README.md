@@ -8,7 +8,9 @@ Alongside that, I have a genuine interest in UI/UX design — I like understandi
 
 **Backend:** 
 </br>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb)](https://skillicons.dev) 
+</br>
+
 **Frontend:** 
 </br>
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite)](https://skillicons.dev) </br>
