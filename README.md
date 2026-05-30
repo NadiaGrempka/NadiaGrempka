@@ -1,18 +1,38 @@
-# Hello I'm Nadia
+# Hi, I'm Nadia 👋
 
-Junior Software Developer with a background in Computer Science.
+A Junior Software Developer with a background in Computer Science.
 I build things on the backend, occasionally on the frontend, and I'm currently diving deeper into DevOps.
 Alongside that, I have a genuine interest in UI/UX design — I like understanding both sides of the product.
 
 ## Tech Stack
 
-**Backend:** Java · Spring Boot · REST APIs · MongoDB  
-**Frontend:** React · React Native · JavaScript (ES6+)  
-**DevOps & Infra:** Docker · Jenkins · GitHub Actions  
-**Testing:** JUnit 5 · Testcontainers · MockMvc · JaCoCo   
-**Networking:** CCNA: Introduction to Networks (Cisco) 
+**Backend:** 
 </br>
-**Design:** Figma · Webflow · Framer · Adobe Photoshop 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb)](https://skillicons.dev) </br>
+**Frontend:** 
+</br>
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite)](https://skillicons.dev) </br>
+
+**DevOps & Infra:**
+</br> 
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions)](https://skillicons.dev)
+</br>
+
+
+**Design:** 
+</br>
+[![My Skills](https://skillicons.dev/icons?i=figma,webflow,ps)](https://skillicons.dev)
+</br>
+
+**Testing:** 
+</br>
+JUnit 5 · Testcontainers · MockMvc · JaCoCo   
+</br>
+**Networking:** 
+</br>
+CCNA: Introduction to Networks (Cisco) 
+
+
 
 ## 📫 How to Reach Me
 
