@@ -2,6 +2,7 @@
 
 Junior Software Developer with a background in Computer Science.
 I build things on the backend, occasionally on the frontend, and I'm currently diving deeper into DevOps.
+Alongside that, I have a genuine interest in UI/UX design — I like understanding both sides of the product.
 
 ## Tech Stack
 
@@ -10,12 +11,11 @@ I build things on the backend, occasionally on the frontend, and I'm currently d
 **DevOps & Infra:** Docker · Jenkins · GitHub Actions  
 **Testing:** JUnit 5 · Testcontainers · MockMvc · JaCoCo   
 **Networking:** CCNA: Introduction to Networks (Cisco)
-
-## Education
-
-B.Eng. Computer Science — Polish-Japanese Academy of Information Technology (2022–2026)
+**Design:** Figma · Webflow · Framer · Adobe Photoshop 
 
 ## 📫 How to Reach Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nadia-grempka/)
 
 ✉️ nadia.grempka@gmail.com
 
