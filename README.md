@@ -1,6 +1,4 @@
-# Hi, I’m Nadia ✨
-
-### 🚧 under construction 🚧
+# Hi, I’m Nadia
 <br>
 
 ## 📫 How to Reach Me
